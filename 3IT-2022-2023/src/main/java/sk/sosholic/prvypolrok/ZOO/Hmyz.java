@@ -21,6 +21,7 @@ public class Hmyz extends zviera{
         }else {
             return -1;
         }
+        // zmena
     }
 
 }
